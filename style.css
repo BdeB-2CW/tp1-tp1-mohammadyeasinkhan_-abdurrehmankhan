@@ -1,0 +1,39 @@
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+  }
+p{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: white;
+   
+}
+img{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+z-index:-1;
+border: 5px solid #555;
+}
+
+
+h3{
+text-align: center;
+color: white;
+font-size: 70px;
+
+}
+

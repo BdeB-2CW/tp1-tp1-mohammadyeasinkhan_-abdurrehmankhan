@@ -1,0 +1,62 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+  }
+h1{
+    text-align: center;
+    height:60px ;
+    widows: 100px; ;
+    color: white;
+    font-size: 90px;
+
+}
+
+h3{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+  nav {
+    color: #f1f1f1;
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 30;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#header {
+    text-align: center;
+  }
+  .left {
+    float: left;
+    margin-right: 70px;
+  }
+  .right {
+    float: right;
+    margin-left: 70px;
+  }
+  #header1 {
+    text-align: center;
+    margin-top: 100px;
+  }
+  .left1 {
+    float: left;
+    margin-right: 70px;
+  }
+  .right1 {
+    float: right;
+    margin-left: 70px;
+  }
+
+  .video1{
+    margin-top: 50px;
+    text-align: center;
+  }
